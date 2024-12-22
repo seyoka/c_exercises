@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ryansmorrissey/C_ISE/chapter3/exercise5'
+relocations:     []
+...
